@@ -10,3 +10,4 @@
 Как запустить проект:
 # 1. pip install scikit-learn pandas
 # 2. jupyter notebook iris_classification.ipynb
+# Или запустите в гугл коллаб по ссылке: https://colab.research.google.com/github/SibAlive/ML/blob/main/iris_classification.ipynb
